@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Python Shebang
+# key: psb
+# --
+#!/usr/bin/python3
