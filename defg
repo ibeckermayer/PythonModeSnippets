@@ -13,6 +13,7 @@ def ${1:name}($2):
 
     ${7:Raises:
         ${8:ValueError: If param2 is equal to param1.}}
+
     \"\"\"${0:$$(let ((beg yas-snippet-beg)
     	(end yas-snippet-end))
         (yas-expand-snippet
