@@ -10,10 +10,10 @@ dotspacemacs-additional-packages '(yasnippet-snippets)
 ```
 Reload your dotfile and make sure everything downloads and installs properly
 ### Next
-clone the repository. Copy both files into `~/.emacs.d/private/snippets/python-mode/`
+clone the repository. Copy all files into `~/.emacs.d/private/snippets/python-mode/`
 ## Usage
 * (assuming you're in spacemacs python-mode) type `SPC i s` (I think of it as SPC, insert, snippet)
-* search for `defg` and press enter
-* A function outline should pop up: start typing your function name and then press tab to go to the next field
+* search for `defg` or one of the other snippets and press enter
+* An outline should pop up: start typing in the first field and then press tab to go to the next field
 * repeat this until you stop automatically changing fields
-* tada, there's your fucking docstring you bitch 
+* tada, there's your fucking snippet you bitch 
