@@ -1,5 +1,5 @@
-# SpacemacsGoogleStylePythonDocstrings
-Contains the code for generating Google style python docstrings with yasnippet in spacemacs
+# PythonModeSnippets
+Contains the code for generating snippets for python-mode in spacemacs
 ## Installation
 ### Before cloning the repository
 edit your `.spacemacs` file:
