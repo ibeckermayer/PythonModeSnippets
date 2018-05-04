@@ -1,5 +1,8 @@
 # -*- mode: snippet -*-
+# creates the shebang for a python file
 # name: Python Shebang
 # key: psb
+# type: snippet
+# contributor: ibeckermayer
 # --
 #!/usr/bin/python3
